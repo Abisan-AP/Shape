@@ -7,7 +7,7 @@ package rectangular;
 import java.util.Random;
 /**
  *
- * @author abisa
+ * @author Abisan Poothapillai
  */
 public class Rectangular {
     private int width;
